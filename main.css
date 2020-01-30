@@ -193,3 +193,7 @@ img.profile-pic {
     width: 80%;
   }
 }
+.body {
+outline: none;
+margin: 0;
+}
